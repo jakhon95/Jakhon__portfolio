@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Main page</title>
+    <link>https://jakhon95.github.io/Jakhon__portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Main page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Feb 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jakhon95.github.io/Jakhon__portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Assistant</title>
+      <link>https://jakhon95.github.io/Jakhon__portfolio/post/project-3/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jakhon95.github.io/Jakhon__portfolio/post/project-3/</guid>
+      <description>As we know Python is a suitable language for script writers and developers. This time I and my friend tried to make a project on Voice Assistant using Python. The query for the assistant can be manipulated as per the user’s need. Speech recognition is the process of converting audio into text. This is commonly used in voice assistants like Alexa, Siri, etc. Python provides an API called SpeechRecognition to allow us to convert audio into text for further processing.</description>
+    </item>
+    
+    <item>
+      <title>Self-Driving Car Project</title>
+      <link>https://jakhon95.github.io/Jakhon__portfolio/post/project-1/</link>
+      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jakhon95.github.io/Jakhon__portfolio/post/project-1/</guid>
+      <description>Today, we live in very competitive world with recent technologies that make people’s lives easy and comfortable. People tend to be surrounded with these techs which allow them to be safe and well-being. Self-driving cars have recently taken my attention with their ubiquitous design, speed and automation that can be controlled without a person. I have recently experimented with a few self-driving car concepts that pertain to computer vision, including lane detection.</description>
+    </item>
+    
+    <item>
+      <title>Data mining for social network</title>
+      <link>https://jakhon95.github.io/Jakhon__portfolio/post/project-2/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jakhon95.github.io/Jakhon__portfolio/post/project-2/</guid>
+      <description>Twitter is a popular social network where users can share short SMS-like messages called tweets. Users share thoughts, links and pictures on Twitter, journalists comment on live events, companies promote products and engage with customers. The list of different ways to use Twitter could be really long, and with 500 millions of tweets per day, there’s a lot of data to analyze and to play with. We have introduced tweepy as a tool to access Twitter data in a fairly easy way with Python.</description>
+    </item>
+    
+    <item>
+      <title>Contact me</title>
+      <link>https://jakhon95.github.io/Jakhon__portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jakhon95.github.io/Jakhon__portfolio/contact/</guid>
+      <description>   Platform	URL      LinkedIn: https://www.linkedin.com/in/jakhon-normurodov-5390581a2   GitHub: https://github.com/Pythonista2020   Kaggle: https://www.kaggle.com/jakhonnormurodov   Facebook: https://www.facebook.com/profile.php?id=100052585396615   Email: jakhon9598@gmail.com   Twitter: https://twitter.com/Jakhon05605394   Phone: 010-4109-4890    </description>
+    </item>
+    
+  </channel>
+</rss>

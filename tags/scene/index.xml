@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Main page</title>
+    <link>https://jakhon95.github.io/Jakhon__portfolio/tags/scene/</link>
+    <description>Recent content in scene on Main page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jakhon95.github.io/Jakhon__portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Self-Driving Car Project</title>
+      <link>https://jakhon95.github.io/Jakhon__portfolio/post/project-1/</link>
+      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jakhon95.github.io/Jakhon__portfolio/post/project-1/</guid>
+      <description>Today, we live in very competitive world with recent technologies that make people’s lives easy and comfortable. People tend to be surrounded with these techs which allow them to be safe and well-being. Self-driving cars have recently taken my attention with their ubiquitous design, speed and automation that can be controlled without a person. I have recently experimented with a few self-driving car concepts that pertain to computer vision, including lane detection.</description>
+    </item>
+    
+  </channel>
+</rss>
